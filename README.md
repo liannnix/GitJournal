@@ -1,4 +1,5 @@
 <p align="center">
+  
   <img width="400" height="auto" src="https://gitjournal.io/images/logo.png">
   <br/>Mobile first Markdown Notes integrated with Git</b>
 </p>
